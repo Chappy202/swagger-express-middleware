@@ -1,7 +1,7 @@
 {
-  "name": "@apidevtools/swagger-express-middleware",
+  "name": "@chappy202/swagger-express-middleware",
   "version": "5.1.3",
-  "description": "Swagger middleware and mocks for Express",
+  "description": "Swagger middleware and mocks for Express - Updated fork",
   "keywords": [
     "express",
     "swagger",
@@ -14,13 +14,12 @@
     "json"
   ],
   "author": {
-    "name": "James Messinger",
-    "url": "https://jamesmessinger.com"
+    "name": "JJ Badenhorst"
   },
   "homepage": "https://apitools.dev/swagger-express-middleware/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/APIDevTools/swagger-express-middleware.git"
+    "url": "https://github.com/Chappy202/swagger-express-middleware.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
