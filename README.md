@@ -1,3 +1,5 @@
+This repo is a fork to address some vulnerabilities and update dependancies and libraries as well as fix a date formatting bug.
+
 Swagger Express Middleware
 ============================
 ### Swagger 2.0 middleware and mocks for Express.js

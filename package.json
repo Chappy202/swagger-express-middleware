@@ -1,6 +1,6 @@
 {
   "name": "@apidevtools/swagger-express-middleware",
-  "version": "4.0.2",
+  "version": "5.1.3",
   "description": "Swagger middleware and mocks for Express",
   "keywords": [
     "express",
@@ -42,31 +42,32 @@
     "start": "cd samples && node sample1.js"
   },
   "devDependencies": {
-    "@jsdevtools/eslint-config": "^1.1.0",
-    "@jsdevtools/version-bump-prompt": "^6.0.6",
+    "@jsdevtools/eslint-config": "^1.1.4",
+    "@jsdevtools/version-bump-prompt": "^6.1.0",
     "basic-auth": "^2.0.1",
-    "chai": "^4.2.0",
-    "chai-datetime": "^1.7.0",
-    "eslint": "^7.6.0",
-    "express": "^4.17.1",
-    "mocha": "^8.1.0",
-    "npm-check": "^5.9.0",
+    "chai": "^4.3.6",
+    "chai-datetime": "^1.8.0",
+    "eslint": "^8.23.0",
+    "eslint-plugin-jsdoc": "^39.3.6",
+    "express": "^4.18.1",
+    "mocha": "^10.0.0",
+    "npm-check": "^6.0.1",
     "nyc": "^15.1.0",
-    "shx": "^0.3.2",
-    "sinon": "^9.0.2",
-    "supertest": "^4.0.2"
+    "shx": "^0.3.4",
+    "sinon": "^14.0.0",
+    "supertest": "^6.2.4"
   },
   "dependencies": {
     "@apidevtools/swagger-methods": "^3.0.2",
-    "@apidevtools/swagger-parser": "^10.0.1",
+    "@apidevtools/swagger-parser": "^10.1.0",
     "@jsdevtools/ono": "^7.1.3",
-    "body-parser": "^1.19.0",
-    "cookie-parser": "^1.4.4",
-    "debug": "^4.1.1",
-    "lodash": "^4.17.19",
-    "multer": "^1.4.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.1",
     "tmp": "^0.2.1",
-    "tv4": "^1.2.5",
+    "tv4": "^1.3.0",
     "type-is": "^1.6.18"
   },
   "peerDependencies": {
